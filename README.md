@@ -3,7 +3,7 @@
 <img src="assets/hero.svg" alt="Hilson Gabriel Carvalho — HGC" width="100%" />
 
 <a href="https://hgc-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&weight=700&size=26&duration=3200&pause=900&color=6980FF&center=true&vCenter=true&width=720&lines=Sites+que+geram+confian%C3%A7a;Sistemas+internos+sob+medida;Integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es;Processos+confusos+%E2%86%92+solu%C3%A7%C3%B5es+claras" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&weight=700&size=26&duration=3200&pause=900&color=6980FF&center=true&vCenter=true&width=720&lines=Sistemas+internos+sob+medida;Integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es;Processos+confusos+%E2%86%92+solu%C3%A7%C3%B5es+claras" alt="Typing" />
 </a>
 
 <br/><br/>
